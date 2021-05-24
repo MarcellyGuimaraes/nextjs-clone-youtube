@@ -75,6 +75,7 @@ function TopBar() {
 
         <Hidden mdDown>
           <Box>
+            <p>Marcelly</p>
             <Paper component="form" className={classes.search}>
               <InputBase
                 className={classes.input}
