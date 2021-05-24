@@ -174,7 +174,7 @@ function NavBar() {
                     primary: classes.listItemText,
                   }}
                   primary={item.name}
-                />
+                ></ListItemText>
               </ListItem>
             ))}
           </List>
