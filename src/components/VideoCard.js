@@ -48,6 +48,7 @@ function VideoCard({ item }) {
             variant="body1"
             color="textPrimary"
           >
+            <p>Marcelly Guimarães</p>
             {item.title}
           </Typography>
           <Typography display="block" variant="body2" color="textSecondary">
